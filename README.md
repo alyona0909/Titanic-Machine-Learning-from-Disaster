@@ -21,7 +21,7 @@ This file contains in detail the visualization aspect of the data analysis and b
 
 Before modeling, we'll parse all input data.
 
-We're using to models for describing regression problem:
+We're using to models for describing classification problem:
 
 1. LogisticRegression
 2. KNeighborsClassifier
